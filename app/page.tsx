@@ -210,7 +210,7 @@ export default function Page() {
             <Polaroid
               src="/photos/film-4.jpg"
               alt="Jalanan kota yang nostalgik saat senja"
-              caption="AKWOAWOKOA SAAT KAMU KALAH MAIN UNO."
+              caption="dehel? gula kayangan balikin mbak."
               rotate={-6}
               tape="tape-sky"
               tapePosition="corners"
@@ -302,7 +302,7 @@ export default function Page() {
           <br />
           <br />
           <span className="text-xl text-foreground/60">
-            — dengan seluruh hatiku, buat pacarku yang paling aku sayanggggggggggggggggggggg.
+            — dengan seluruh hatiku, buat mantanku yang paling aku sayanggggggggggggggggggggg.
           </span>
         </NoteCard>
 
